@@ -1,2 +1,2 @@
 # File-transfer-program-cn
-file transfer program 
+This program transfers files form server to client folder using socket lib in python.
